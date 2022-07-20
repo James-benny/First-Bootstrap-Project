@@ -1,0 +1,129 @@
+nav{
+    background-color: rgb(48, 58, 82);
+}
+
+.fluid{
+    background-color: rgb(45, 179, 149);
+}
+
+.image-1{
+    height: 300px;
+    margin-top: 80px;
+}
+
+.screen-2{
+    background-color: white;
+}
+
+.card-img-top{
+    border-radius: 20px;
+}
+
+.section-3{
+    background-color: rgb(45, 184, 165);
+}
+
+.Freelancer{
+    font-weight:500;
+    line-height: 26px; 
+}
+
+.bi{
+    color: white;
+    font-size: 30px;
+}
+
+.download{
+    font-style: normal;
+    font-size: 20px;
+}
+
+.download:hover{
+    color: black;
+    font-style: normal;
+}
+
+.black{
+    color: rgb(48, 58, 82);
+    font-size: 30px;
+}
+
+.divider-left{
+    background-color: white !important;
+    height: 5px !important;
+    border-radius: 2px;
+    width: 150px;
+}
+
+.portfolio{
+    font-size: 50px;
+    color: rgb(48, 58, 82);
+}
+
+@media screen and (max-width: 320px){
+    .portfolio{
+        font-size: 35px;
+    }
+}
+
+.about{
+    font-size: 50px;
+}
+
+@media screen and (max-width: 320px){
+    .about{
+        font-size: 35px;
+    }
+}
+
+.contact{
+    font-size: 50px;
+    color: rgb(48, 58, 82);
+}
+@media screen and (max-width: 320px){
+    .contact{
+        font-size: 45px;
+    }
+}
+.start{
+    font-size: 50px;
+}
+
+@media screen and (max-width: 320px){
+    .start{
+        font-size: 45px;
+    }
+}
+
+.contact-us{
+    background-color: white;
+}
+
+.divide{
+    background-color: rgb(48, 58, 82) !important;
+    height: 5px !important;
+    border-radius: 2px;
+    width: 150px;
+}
+
+.submit{
+    background-color: rgb(63, 194, 150);
+    border: none;
+}
+
+.footer-1{
+    background-color: rgba(1, 8, 26, 0.925);
+    color: white;
+    font-weight: 500;
+}
+
+.icon:hover{
+    border-radius: 200px;
+    border: none;
+    background-color: white;
+    color: black;
+}
+
+.last-div{
+    background-color: rgba(2, 5, 14, 0.979);
+}
